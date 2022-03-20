@@ -10,7 +10,7 @@
 4. One more line just to be safe :)
 
 ### **Anyways, here is the code to generate this image:**
-```[r]
+```R
 library(magick)
 top_r <- image_blank(width = 400,
                      height = 277,

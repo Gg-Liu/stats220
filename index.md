@@ -4,10 +4,10 @@
 - This _meme_ features an alpaca, because alpacas are pretty darn cool.
 - It also describes someone's (probably not mine) approach to assignments
 
-1. This is some meta-information about how this sentence is necessary.
-2. It is necessary because I have to be able to show my ability to write ordered lists in Markdown.
-3. So here it is.
-4. One more line just to be safe :)
+* This is some meta-information about how this sentence is necessary.
+* It is necessary because I have to be able to show my ability to write ordered lists in Markdown.
+* So here it is.
+* One more line just to be safe :)
 
 ### **Anyways, here is the code to generate this image:**
 ```R

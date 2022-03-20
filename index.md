@@ -1,5 +1,5 @@
 ### **This is a meme created for an assignment:**
-![alpaca_meme](https://github.com/Gg-Liu/stats220/blob/gh-pages/alpaca_meme.png)
+![alpaca_meme](https://raw.githubusercontent.com/Gg-Liu/stats220/gh-pages/alpaca_meme.png)
 
 - This _meme_ features an alpaca, because alpacas are pretty darn cool.
 - It also describes someone's (probably not mine) approach to assignments

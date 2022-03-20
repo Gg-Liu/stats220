@@ -10,7 +10,7 @@
 4. One more line just to be safe :)
 
 ### **Anyways, here is the code to generate this image:**
-'''[r]
+```[r]
 library(magick)
 top_r <- image_blank(width = 400,
                      height = 277,
@@ -44,4 +44,4 @@ print(appended)
 image_write(appended, "alpaca_meme.png")
 
 
-'''
+```
